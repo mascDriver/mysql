@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/dumb_base/DumpSucosVendas/sucos_vendas_itens_notas_fiscais.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/dumb_base/DumpSucosVendas/sucos_vendas_notas_fiscais.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/dumb_base/DumpSucosVendas/sucos_vendas_tabela_de_clientes.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/dumb_base/DumpSucosVendas/sucos_vendas_tabela_de_produtos.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/dumb_base/DumpSucosVendas/sucos_vendas_tabela_de_vendedores.sql" dialect="MySQL" />
+  </component>
+</project>
