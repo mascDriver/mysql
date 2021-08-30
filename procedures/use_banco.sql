@@ -81,3 +81,6 @@ begin
 end;
 
 call acha_sabor_produto('1013793')
+
+
+select floor((rand() * (300-15+1)) + 15)

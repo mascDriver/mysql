@@ -7,6 +7,7 @@
     <file url="file://$PROJECT_DIR$/dumb_base/DumpSucosVendas/sucos_vendas_tabela_de_produtos.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/dumb_base/DumpSucosVendas/sucos_vendas_tabela_de_vendedores.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/procedures/cursor.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/procedures/procedures and trigger.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/procedures/use_banco.sql" dialect="MySQL" />
   </component>
 </project>
