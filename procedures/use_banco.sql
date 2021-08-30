@@ -72,3 +72,12 @@ end;
 
 
 call insere_novo_produto_tratamento_erro('40001', 'Sabor do Pantanal', 'Melancia', '1 Litro', 'PET', 4.76);
+
+create procedure `acha_sabor_produto`(vProduto varchar(50))
+begin
+    declare vSabor varchar(50);
+    select SABOR into vSabor from tabela_de_produtos where CODIGO_DO_PRODUTO = vProduto;
+    select vSabor;
+end;
+
+call acha_sabor_produto('1013793')
