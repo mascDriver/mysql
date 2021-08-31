@@ -1,0 +1,1 @@
+explain format=JSON select * from tabela_de_clientes;

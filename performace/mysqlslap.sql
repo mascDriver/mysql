@@ -1,0 +1,1 @@
+mysqlslap -u root -p --currency=100 --iteration=10 --create-schema=sucos_vendas --query="select * from table";
